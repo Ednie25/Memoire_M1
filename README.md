@@ -26,7 +26,7 @@ This repository examines the economic impact of public energy transition policie
 
 
 ## How to Use
-1. Clone the repository: `git clone` repository_url 
+1. Clone the repository: `git clone [repository_url](https://github.com/Ednie25/Memoire_M1.git)`
 2. Navigate to the project directory: `cd <Memoire_M1>`
 3. Explore the datasets in the `/database1` and `/databaseFinale` excel files.
 4. Review the R `/codeMensualisation`, `/traitementData`, and `/Modélisation_ARDL` scripts.
