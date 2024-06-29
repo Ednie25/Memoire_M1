@@ -8,21 +8,22 @@ This repository examines the economic impact of public energy transition policie
 
 ## Key Findings
 
-- **/Short-term Impact:** The econometric modeling revealed a significant short-term negative impact of investments on profitability.
-- **/Long-term Impact:** A minimal long-term positive impact was observed, suggesting that the positive effects of investments are not sufficient to ensure sustainability.
+- **Short-term Impact:** The econometric modeling revealed a significant short-term negative impact of investments on profitability.
+- **Long-term Impact:** A minimal long-term positive impact was observed, suggesting that the positive effects of investments are not sufficient to ensure sustainability.
 - **/Recommendations:** The study suggests that opening Île-de-France's public transport networks to competition, as prescribed by European and national legislation, could help sustain the sector amid the energy transition, given that public funds alone may not be sufficient.
 
 
 ## Repository Structure
-- **/investissement:**
-- **/rentabilité:**
-- **/concoursPublics:**
-- **/database1:**  Contains raw or initial datasets used in the analysis.
-- **/databaseFinale:** Contains datasets that have been processed, cleaned, and prepared for analysis. These datasets are ready for use in the models or analyses conducted in the project.
-- **/codeMensualisation:** R Code tailored for data handling and processing tasks related to transforming annual data into monthly data. It includes scripts for data aggregation, transformation, normalization, and other tasks necessary to convert annual datasets into monthly datasets.
-- **/traitementData:** Contains scripts or code related to data processing and cleaning.
-- **/Modélisation_ARDL:**  R Code related to econometric modeling. It may include scripts for model development using the AutoRegressive Distributed Lag (ARDL) approach or other econometric techniques to analyze the impact of policies on the transport sector's profitability.
-- **/memoireEdnie:** Documentation of the study.
+- **investissement:** Data related to investments made in the context of the study. 
+- **rentabilité:** Data related to profitability analysis.
+- **concoursPublics:** Data related to public funds. 
+- **database1:**  Contains raw or initial datasets used in the analysis.
+- **databaseFinale:** Contains datasets that have been processed, cleaned, and prepared for analysis. These datasets are ready for use in the models or analyses conducted in the project.
+- **codeMensualisation:** R Code tailored for data handling and processing tasks related to transforming annual data into monthly data. It includes scripts for data aggregation, transformation, normalization, and other tasks necessary to convert annual datasets into monthly datasets.
+- **traitementData:** Contains scripts or code related to data processing and cleaning.
+- **Modélisation_ARDL:**  R Code related to econometric modeling. It may include scripts for model development using the AutoRegressive Distributed Lag (ARDL) approach or other econometric techniques to analyze the impact of policies on the transport sector's profitability.
+- **memoireEdnie:** Documentation of the study.
+
 
 
 
