@@ -22,7 +22,7 @@ This repository examines the economic impact of public energy transition policie
 - **codeMensualisation:** R Code tailored for data handling and processing tasks related to transforming annual data into monthly data. It includes scripts for data aggregation, transformation, normalization, and other tasks necessary to convert annual datasets into monthly datasets.
 - **traitementData:** Contains scripts or code related to data processing and cleaning.
 - **Modélisation_ARDL:**  R Code related to econometric modeling. It may include scripts for model development using the AutoRegressive Distributed Lag (ARDL) approach or other econometric techniques to analyze the impact of policies on the transport sector's profitability.
-- **memoireEdnie:** Documentation of the study.
+- **Memoire Ednie Version Finale:** Documentation of the study.
 
 
 ## How to Use
@@ -30,7 +30,7 @@ This repository examines the economic impact of public energy transition policie
 2. Navigate to the project directory: `cd <Memoire_M1>`
 3. Explore the datasets in the `/database1` and `/databaseFinale` excel files.
 4. Review the R `/codeMensualisation`, `/traitementData`, and `/Modélisation_ARDL` scripts.
-5. Read the detailed study in the `/memoireEdnie` folder.
+5. Read the detailed study in the `/Memoire Ednie Version Finale` folder.
 
 ## Contact
 For any questions or further information, please contact:
