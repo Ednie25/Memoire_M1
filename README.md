@@ -4,7 +4,7 @@ In the 1990s, Western nations grew increasingly concerned about air pollution re
 
 ## Objective
 
-This repository examines the economic impact of public energy transition policies on the public transport sector in Île-de-France. The study uses econometric modeling to analyze short-term and long-term effects on profitability and explores potential solutions for sustaining the sector amid the energy transition.
+This repository examines the economic impact of public energy transition policies on the public transport sector in Île-de-France from 2000 to 2019. The study uses econometric modeling to analyze short-term and long-term effects on profitability and explores potential solutions for sustaining the sector amid the energy transition.
 
 ## Key Findings
 
@@ -25,6 +25,16 @@ This repository examines the economic impact of public energy transition policie
 - **memoireEdnie:** Documentation of the study.
 
 
+## How to Use
+1. Clone the repository: `git clone <repository_url>`
+2. Navigate to the project directory: `cd <Memoire_M1>`
+3. Explore the datasets in the `/database1` and `/databaseFinale` excel files.
+4. Review the R `/codeMensualisation`, `/traitementData`, and `/Modélisation_ARDL` scripts.
+5. Read the detailed study in the `/memoireEdnie` folder.
 
+## Contact
+For any questions or further information, please contact:
+Ednie Emmanuelle Lafleur  
+Email: ednielafleur01@gmail.com
 
 
